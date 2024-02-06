@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <image>
+            <title>Logo de mi Canal RSS</title>
+            <url>https://bloggytalky.com/wp-content/uploads/2017/07/create-a-free-logo-design-logo-designs-design-a-free-logo-design-a-free-logo-alltech-just-free-logo-design-1024x934.png</url>
+            <link>https://bloggytalky.com</link>
+        </image>
+
+        <title>DNS Host Enumeration News</title>
+        <description>Latest news and articles on DNS host enumeration</description>
+        <link>https://Mi pagina web.com/menu.html</link>
+        <item>
+            <title>Artículos en español</title>
+            <link>https://Enumeración de Hosts mediante DNS.com/spanish.html</link>
+        </item>
+        <item>
+            <title>Artículos en ingles</title>
+            <link>https://Host Enumeration via DNS.com/english.html</link>
+        </item>
+    </channel>
+</rss>
